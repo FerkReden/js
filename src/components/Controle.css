@@ -1,0 +1,30 @@
+h1 {
+    font-size: 3.5rem;
+    font-weight: 300;
+    color: aqua;
+    margin-bottom: 1rem;
+}
+
+.control {
+    display: flex;
+    height: 3rem;
+    gap: 2rem;
+}
+
+button {
+    background-color: aqua;
+    border: 2px solid blue;
+    border-radius: 1rem;
+    margin: 1rem;
+}
+
+.item {
+    display: flex;
+    justify-content: space-around;
+    max-width: 200px;
+    background-color: cyan;
+    padding: 1rem;
+    border: 2px solid blue;
+    border-radius: 1rem;
+    margin: 1rem;
+}
